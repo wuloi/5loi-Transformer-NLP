@@ -25,3 +25,5 @@
 
 * 深度学习入门
 
+<center><a href="https://5loi.com/about_loi"> <img src="images/DLI_Header.png" alt="Header" style="width: 400px;"/> </a></center>
+
